@@ -64,4 +64,10 @@ I started coding as a hobby and enjoy turning ideas into real websites.
 
 ---
 
+## Portfolio News!
+
+Guys, Our portfolio will be live when we will upload 10 projects successfully on Github.
+
+---
+
 ⭐ Thanks for visiting my profile!
